@@ -21,6 +21,21 @@ This project requires **NO additional setup** — simply open the folder in Andr
 
 ---
 
+## 📱 Screenshots
+
+> Add actual image paths here when uploading to GitHub
+
+### Registration Screen
+![Registration Form](s1.jpg)
+
+### View All Records
+![View Data](s2.jpg)
+
+### Edit / Delete Screen
+![Edit/Delete](s3.jpg)
+
+---
+
 ## 🛠️ How It Works
 
 1. Open the project folder in **Android Studio**
