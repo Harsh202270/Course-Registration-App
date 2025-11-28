@@ -25,14 +25,15 @@ This project requires **NO additional setup** — simply open the folder in Andr
 
 > Add actual image paths here when uploading to GitHub
 
-### Registration Screen
-![Registration Form](s1.jpg)
+<h3>Registration Screen</h3>
+<img src="s1.jpg" width="350"/>
 
-### View All Records
-![View Data](s2.jpg)
+<h3>View All Records</h3>
+<img src="s2.jpg" width="350"/>
 
-### Edit / Delete Screen
-![Edit/Delete](s3.jpg)
+<h3>Edit / Delete Screen</h3>
+<img src="s3.jpg" width="350"/>
+
 
 ---
 
